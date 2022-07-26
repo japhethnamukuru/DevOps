@@ -1,4 +1,4 @@
-# 0X01. Git
+# 0x01. Git
 
 ## Git and Github
  
