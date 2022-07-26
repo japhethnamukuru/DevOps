@@ -1,6 +1,5 @@
 # 0X01. Git
 
----
 ## Git and Github
  
 <div>
