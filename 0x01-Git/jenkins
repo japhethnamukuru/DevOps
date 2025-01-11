@@ -16,7 +16,7 @@ pipeline {
             steps {
                 echo "Testing.."
                 sh '''               
-                python hello.py                
+                python 0x01-Git/hello.py                
                 '''
             }
         }
