@@ -8,7 +8,7 @@ pipeline {
             steps {
                 echo "Building.."
                 sh '''                
-                pip install -r requirements.txt
+                echo "This is the build stage"
                 '''
             }
         }
