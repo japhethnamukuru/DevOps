@@ -1,0 +1,12 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Run Selenium Script') {
+            steps {
+                echo "Running the selenium python script"
+                sh "python 0x01-Git/test.py"
+            }
+        }
+    }
+}
